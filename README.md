@@ -96,11 +96,6 @@ Run `npm start` to start the application
 ![image](https://user-images.githubusercontent.com/81776711/224616126-7f3d7bff-e8d5-41dc-adb6-f9f1e6191654.png)
 
 
-**Profile page**
-
-![image](https://user-images.githubusercontent.com/81776711/224616059-925032b3-17a6-481e-80e7-f55016b81a09.png)
-
-
 # UI design inspirations
 
 The UI of the project is completely inspired and even taken from these, all the design credits goes to them:
